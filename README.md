@@ -2,7 +2,7 @@
 2nd assessment test was given by ...
 
 
-Live Preview Link:
+Live Demo:
 
 https://pbain63.github.io/Written-test--2nd-assessment-test--solved/
 
