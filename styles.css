@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
 }
-body{
+body {
   padding: 0;
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
@@ -9,7 +9,6 @@ body{
   /* height: 100%; */
   /* width: 100vw; */
   /* overflow: hidden; */
-  
 }
 h1 {
   padding: 0;
@@ -31,12 +30,14 @@ h1 {
 .nav-links {
   display: flex;
   gap: 3em;
-  cursor: pointer;
 }
 .nav-links li {
   list-style: none;
 }
-
+.nav-links a {
+  color: white;
+  text-decoration: none;
+}
 .flex-conatiner {
   display: flex;
 }
@@ -78,14 +79,11 @@ h1 {
   padding-left: 17em;
 }
 
-
 .conatiner {
   position: relative;
 }
 /*  */
 .positioned-div {
-  
-
   position: absolute;
   /* bottom: 7.6%; */
   /* bottom: 3.1em; */
