@@ -70,6 +70,9 @@ h1 {
   /* align-items: center; */
   padding-right: 3rem;
 }
+.bottom-right-heading {
+  font-size: 2em;
+}
 .bottom-right-text {
   text-align: right;
   padding-left: 17em;
@@ -79,6 +82,7 @@ h1 {
 .conatiner {
   position: relative;
 }
+/*  */
 .positioned-div {
   
 
