@@ -76,7 +76,7 @@ h1 {
 }
 
 
-.flex-conatiner {
+.conatiner {
   position: relative;
 }
 .positioned-div {
@@ -86,7 +86,7 @@ h1 {
   /* bottom: 3.1em; */
   /* left: 39%; */
   top: 22.65em;
-  left: 39%;
+  left: 33em;
 }
 .positioned-img {
   /* display: flex; */
