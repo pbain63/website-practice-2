@@ -10,15 +10,17 @@ Note: This version is designed only for laptop/desktop view.
 This project is a personal reproduction of a coding assessment. It contains only self-written HTML and CSS, with no proprietary assets.
 
 🔗 Live Demo
-View the live demo
+
+https://pbain63.github.io/Written-test--2nd-assessment-test--solved/ 
 
 🛠️ Technologies Used
+
 HTML5
 
 CSS3
 
 
 
-<!-- https://pbain63.github.io/Written-test--2nd-assessment-test--solved/  -->
+
 
 
