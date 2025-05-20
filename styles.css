@@ -38,10 +38,10 @@ h1 {
   color: white;
   text-decoration: none;
 }
-.flex-conatiner {
+.flex-container{
   display: flex;
 }
-.flex-conatiner img {
+.flex-container img {
   max-width: 50%;
 }
 .right-container {
