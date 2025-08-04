@@ -17,15 +17,16 @@ h1 {
 .nav-container {
   background-color: black;
   color: white;
+}
+.nav--image--link__wrapper {
+  width: 80%;
+  margin: 0 auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /* max-height: 3rem; */
-  padding-left: 3rem;
-  padding-right: 3rem;
 }
 .nav-container img {
-  max-height: 4em;
+  max-height: 4rem;
 }
 .nav-links {
   display: flex;
