@@ -132,17 +132,15 @@ h1 {
 
 .footer {
   background-color: black;
+  padding-top: 0.65em;
+  padding-bottom: 0.65em;
+}
+.footer--link__wrapper {
+  width: 80%;
+  margin: 0 auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
-
-  padding-left: 3rem;
-  padding-right: 3rem;
-
-  padding-top: 0.65em;
-  padding-bottom: 0.65em;
-  /* padding-top: 1em; */
-  /* padding-bottom: 1em; */
 }
 .footer-logo img {
   max-width: 1em;
