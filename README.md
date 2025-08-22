@@ -13,7 +13,7 @@ This project is a personal reproduction of a coding assessment. It contains only
 
 https://pbain63.github.io/Written-test--2nd-assessment-test--solved
 
-🛠️ Technologies Used
+## Technologies Used
 
 HTML5
 
