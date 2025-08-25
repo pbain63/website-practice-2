@@ -76,7 +76,7 @@ This project is deployed using **GitHub Pages**:
 If you’d like to connect or give feedback, feel free to reach out:
 
 - GitHub: [@pbain63](https://github.com/pbain63)
-- Portfolio: [pbain63.github.io](https://pbain63.github.io/)
+- Portfolio: [pbain63.github.io/portfolio](https://pbain63.github.io/portfolio)
 
 ---
 
