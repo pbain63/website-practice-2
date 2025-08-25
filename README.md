@@ -1,19 +1,15 @@
-
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://pbain63.github.io/website-practice-2/)
+<!-- [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://pbain63.github.io/website-practice-2/) -->
 
 This is a **personal web project** built using **HTML5** and **CSS3**.  
-It is  website project where I practiced **semantic HTML structure**, **clean CSS styling**, and **responsive layout design**.
+It is website project where I practiced **semantic HTML structure**, **clean CSS styling**, and **responsive layout design**.
 
 ---
 
-## 🚀 Live Demo
-
-Check it out here: 👉 [Website Live](https://pbain63.github.io/website-practice-2/)
+## [Live Demo](https://pbain63.github.io/website-practice-2/)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 website-made-2nd/
 │── index.html # Main HTML file
@@ -21,7 +17,7 @@ website-made-2nd/
 │── assets/ # Images or other static assets
 └── README.md # Project documentation
 
-## ✨ Features
+## Features
 
 - ✅ Built with **HTML5 & CSS3** only
 - ✅ Clean and structured **semantic markup**
@@ -31,7 +27,7 @@ website-made-2nd/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5**
 - **CSS3**
@@ -39,7 +35,7 @@ website-made-2nd/
 
 ---
 
-## 📖 Lessons Learned
+## Lessons Learned
 
 Through this project, I practiced:
 
@@ -50,7 +46,7 @@ Through this project, I practiced:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 _(Optional – You can add screenshots of your website here for a better presentation. Example below:)_
 
@@ -64,7 +60,7 @@ _(Optional – You can add screenshots of your website here for a better present
 - better responsiveness,
 - animations
 
-## 🚀 Deployment
+## Deployment
 
 This project is deployed using **GitHub Pages**:
 
@@ -75,7 +71,7 @@ This project is deployed using **GitHub Pages**:
 
 ---
 
-## 📬 Contact
+## Contact
 
 If you’d like to connect or give feedback, feel free to reach out:
 
