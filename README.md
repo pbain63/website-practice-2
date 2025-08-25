@@ -1,7 +1,7 @@
 <!-- [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://pbain63.github.io/website-practice-2/) -->
 
-This is a **personal web project** built using **HTML5** and **CSS3**.  
-It is website project where I practiced **semantic HTML structure**, **clean CSS styling**, and **responsive layout design**.
+This **web project** built using **HTML5** and **CSS3**.  
+In this website project where I practiced **semantic HTML structure**, **clean CSS styling**, and **responsive layout design**.
 
 ---
 
@@ -13,17 +13,19 @@ It is website project where I practiced **semantic HTML structure**, **clean CSS
 
 website-made-2nd/
 │── index.html # Main HTML file
-│── style.css # CSS styles
+│── styles.css # CSS styles
 │── assets/ # Images or other static assets
 └── README.md # Project documentation
 
+---
+
 ## Features
 
-- ✅ Built with **HTML5 & CSS3** only
-- ✅ Clean and structured **semantic markup**
-- ✅ **Responsive design** for different screen sizes
-- ✅ Simple **portfolio-style webpage** structure
-- ✅ Hosted on **GitHub Pages** for free
+- Built with **HTML5 & CSS3** only
+- Clean and structured **semantic markup**
+<!-- - **Responsive design** for different screen sizes -->
+- Simple **portfolio-style webpage** structure
+- Hosted on **GitHub Pages** for free
 
 ---
 
@@ -47,8 +49,6 @@ Through this project, I practiced:
 ---
 
 ## Screenshots
-
-_(Optional – You can add screenshots of your website here for a better presentation. Example below:)_
 
 ![Screenshot](assets/screenshot.png)
 
@@ -80,4 +80,4 @@ If you’d like to connect or give feedback, feel free to reach out:
 
 ---
 
-### ⭐ If you like this project, don’t forget to give it a star on GitHub!
+### If you like this project, don’t forget to give it a star on GitHub!
