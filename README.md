@@ -50,7 +50,9 @@ Through this project, I practiced:
 
 ## Screenshots
 
-![Screenshot](assets/screenshot.png)
+| Desktop View |
+| ------------ |
+![Desktop-Screenshot](screenshots/desktop-screenshots.png)
 
 ---
 
