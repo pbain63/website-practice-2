@@ -51,7 +51,6 @@ h1 {
 .right-section {
   display: flex;
   flex-direction: column;
-  /* padding-right: 3rem; */
 }
 .top-right {
   background-color: #fac022;
@@ -61,15 +60,11 @@ h1 {
   padding-right: 3rem;
   line-height: 0.9;
   padding-top: 0.3em;
-  /* padding-bottom:1em; */
 }
 .bottom-right {
   flex: 1;
   text-align: right;
-  /* display: flex; */
-  /* flex-direction: column; */
   justify-content: center;
-  /* align-items: center; */
   padding-right: 3rem;
 }
 .bottom-right-heading {
@@ -90,8 +85,6 @@ h1 {
   left: 44%;
 }
 .positioned-img {
-  /* display: flex; */
-  /* gap: 3em; */
   padding: 4em;
   background-color: #fac022;
   height: 15.5rem;
@@ -103,23 +96,10 @@ h1 {
 .img2 {
   max-width: 4em;
 }
-.img1 {
-  /* align-self: flex-start; */
-}
 .img2 {
-  /* align-self: flex-end; */
   position: absolute;
   left: 11em;
   bottom: 1.9em;
-  /* padding-top: 20em; */
-  /* justify-content: right; */
-}
-.top-post {
-  /* display: flex; */
-  /* width: 8em; */
-  /* position: absolute; */
-  /* bottom: 15%; */
-  /* left: 31%; */
 }
 .top-post-text {
   width: 5em;
