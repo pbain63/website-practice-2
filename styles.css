@@ -96,6 +96,10 @@ h1 {
 .img2 {
   max-width: 4em;
 }
+.img1 {
+  position: absolute;
+  top: 40%;
+}
 .img2 {
   position: absolute;
   right: 20%;
