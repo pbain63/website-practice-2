@@ -87,7 +87,7 @@ h1 {
 .positioned-img {
   padding: 4em;
   background-color: #fac022;
-  height: 15.5rem;
+  height: 13rem;
   width: 18rem;
   border-top-left-radius: 4em;
   position: relative;
@@ -98,7 +98,7 @@ h1 {
 }
 .img1 {
   position: absolute;
-  top: 40%;
+  top: 30%;
 }
 .img2 {
   position: absolute;
